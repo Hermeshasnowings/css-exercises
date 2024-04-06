@@ -1,0 +1,14 @@
+.one {
+    background: black;
+    color: white;
+}
+
+.two {
+    background-color: yellow;
+}
+
+.one,
+.two {
+    border-color: black;
+    font-size: x-large;
+}
